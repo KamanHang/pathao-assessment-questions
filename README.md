@@ -1,4 +1,8 @@
 # Pathao SQL Challenge Assessment Questions and Solutions
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0408a727-e9ec-470f-8ea1-5676360b0a1e" alt="Pathao Logo_Horizontal" width="200" height="150">   
+</div>
+
 Pathao is a digital platform that offers ride-sharing, food delivery, courier, and e-commerce services. POPULAR in Kathmandu! <br>
 Yes! I did apply for Data Science Apprenticeship at Pathao and FAILED!<br><br> 
 At that time I was not good at SQL but finally! I would say I am preety much SKILLED in SQL NOW!
