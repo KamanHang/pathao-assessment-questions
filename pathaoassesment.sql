@@ -1,1 +1,0 @@
-SELECT * FROM call_statuses;
