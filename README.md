@@ -1,8 +1,8 @@
 # Pathao SQL Challenge Assessment Questions and Solutions
-Hello Visitors! I am Kaman. 🙋🏻‍♂️
-Pathao is a digital platform that offers ride-sharing, food delivery, courier, and e-commerce services.<br>
-Yes! I did apply for Data Science Apprenticeship at Pathao and FAILED!<br>
-At that time I was not good at SQL but finally! I would say I am preety SKILLED up in SQL NOW!
+Hello! I am Kaman. 🙋🏻‍♂️ <br> <br> 
+Pathao is a digital platform that offers ride-sharing, food delivery, courier, and e-commerce services. POPULAR in Kathmandu!<br>
+Yes! I did apply for Data Science Apprenticeship at Pathao and FAILED!<br><br> 
+At that time I was not good at SQL but finally! I would say I am preety much SKILLED up in SQL NOW!
 
 
 This repo consists of solutions of those SQL technical assessment challenge from Pathao.
