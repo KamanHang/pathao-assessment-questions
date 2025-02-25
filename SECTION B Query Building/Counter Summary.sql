@@ -4,14 +4,12 @@
 -- Note:  Use data from "2024-02-14" for the output. 
 
 SELECT
-    counters.id AS counter_id,
-    COUNT(calls.queue_id) AS total_queue_called,
-    calls.called_date AS called_date,
-    SUM(CASE WHEN calls.call_status_id = 1 THEN 1 ELSE 0 END) AS total_served,
-    SUM(CASE WHEN calls.call_status_id = 2 THEN 1 ELSE 0 END) AS total_non_show,
-    SUM(CASE WHEN calls.call_status_id IS NULL THEN 1 ELSE 0 END) AS total_serving
-FROM counters
-JOIN calls ON calls.counter_id = counters.id
-LEFT JOIN call_statuses ON calls.call_status_id = call_statuses.id
-WHERE calls.called_date = '2024-02-14'
-GROUP BY counters.id;
+    counter_id,
+    COUNT(queue_id) AS total_queue_called,
+    called_date,
+    SUM(CASE WHEN call_status_id = 1 THEN 1 ELSE 0 END) AS total_served,
+    SUM(CASE WHEN call_status_id = 2 THEN 1 ELSE 0 END) AS total_non_show,
+    SUM(CASE WHEN call_status_id IS NULL THEN 1 ELSE 0 END) AS total_serving
+FROM calls
+WHERE called_date = '2024-02-14'
+GROUP BY counter_id;
