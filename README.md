@@ -13,7 +13,10 @@ This repo consists of SOLUTIONS of those SQL technical assessment challenge from
 - [Assessment Questions and Instructions PDFs](https://github.com/KamanHang/pathao-assessment-questions/blob/main/Data%20Science%20Apprenticeship%20CHALLENGE%20Instruction%20%5BPathao%20Nepal%202024%20Fall%5D.pdf)
 - [SQL Database (SQLite)](https://github.com/KamanHang/pathao-assessment-questions/blob/main/SQLite%20Database/queue_system_sqlite3.db)
 
-## SECTION B
-### [Counter Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Counter%20Summary) 
-### [Service Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20Summary) 
+## SECTION B (Query Building)
+- ### [Counter Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Counter%20Summary) 
+- ### [Service Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20Summary) 
+- ### [Service X Counters Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20and%20Counter%20Summary) 
+
+
 
