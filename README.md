@@ -1,4 +1,4 @@
-# Pathao SQL Challenge Assessment Questions and Solutions
+#  Data Science Apprenticeship SQL CHALLENGE Pathao Nepal 2024
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0408a727-e9ec-470f-8ea1-5676360b0a1e" alt="Pathao Logo_Horizontal" width="200" height="150">   
 </div>
