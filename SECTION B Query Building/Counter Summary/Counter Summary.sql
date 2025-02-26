@@ -8,7 +8,8 @@ SELECT
 counters.id AS counter_id,
 CASE WHEN calls.queue_id IS NULL THEN calls.queue_id ELSE COUNT(queue_id) END AS total_queued,
 SUM(CASE WHEN calls.call_status_id = 1 THEN 1 WHEN  calls.call_status_id IS NULL THEN calls.call_status_id ELSE 0 END) AS total_served,
-SUM(CASE WHEN calls.call_status_id = 2 THEN 1 WHEN  calls.call_status_id IS NULL THEN calls.call_status_id ELSE 0 END) AS total_no_show
+SUM(CASE WHEN calls.call_status_id = 2 THEN 1 WHEN  calls.call_status_id IS NULL THEN calls.call_status_id ELSE 0 END) AS total_no_show,
+SUM(CASE WHEN call_status_id IS NULL THEN call_status_id ELSE 0 END) AS total_serving
 FROM counters
 LEFT JOIN calls 
 ON counters.id = calls.counter_id AND calls.called_date = '2024-02-14'
