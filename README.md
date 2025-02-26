@@ -16,7 +16,10 @@ This repo consists of SOLUTIONS of those SQL technical assessment challenge from
 ## SECTION B (Query Building)
 - ### [Counter Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Counter%20Summary) 
 - ### [Service Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20Summary) 
-- ### [Service X Counters Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20and%20Counter%20Summary) 
+- ### [Service X Counters Summary](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Service%20and%20Counter%20Summary)
+- ### [Agent Summary WRT Services](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20B%20Query%20Building/Agent%20Summary)
+
+
 
 
 
