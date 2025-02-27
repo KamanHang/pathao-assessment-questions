@@ -27,7 +27,7 @@ This repo consists of SOLUTIONS of those SQL technical assessment challenge from
     - #### [Data Preparation](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20C%20EDA/Data%20Preperation) 
        - Clean and preprocess the data from the relevant tables (`calls`, `queues`, `services`, `counters`, `users`).
        - Handle any missing values, inconsistencies, or outliers in the dataset.
-    - Descriptive Statistics
+    - #### [Descriptive Statistics ](https://github.com/KamanHang/pathao-sql-assessment-solutions/blob/main/SECTION%20C%20EDA/Descriptive%20Statistics/DescriptiveAnalysis.ipynb) 
         - Calculate descriptive statistics such as mean, median, and standard deviation for key metrics, including waiting time, served time, and turn-around time.
     - Visualizations
         - Create visualizations to illustrate the distribution of key metrics (e.g., histograms, box plots).
