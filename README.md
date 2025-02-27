@@ -24,7 +24,7 @@ This repo consists of SOLUTIONS of those SQL technical assessment challenge from
 - #### Objective
     -  Analyze the efficiency of services provided at different counters using the available data. The analysis should identify patterns and insights related to waiting times, service times, and the volume of customers served
 - ### Task Details
-    - Data Preparation
+    - #### [Data Preparation](https://github.com/KamanHang/pathao-sql-assessment-solutions/tree/main/SECTION%20C%20EDA/Data%20Preperation) 
        - Clean and preprocess the data from the relevant tables (`calls`, `queues`, `services`, `counters`, `users`).
        - Handle any missing values, inconsistencies, or outliers in the dataset.
     - Descriptive Statistics
