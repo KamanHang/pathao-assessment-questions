@@ -1,0 +1,4 @@
+service_id,service_name,letter,start_number,status,sms_enabled,optin_message_enabled,call_message_enabled,noshow_message_enabled,completed_message_enabled,status_message_enabled,optin_message_format,call_message_format,noshow_message_format,completed_message_format,status_message_format,status_message_positions,ask_name,name_required,ask_email,email_required,ask_phone,phone_required,created_date,created_time,updated_date,updated_time
+1,WIS (W),W,1,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,0,0,0,2024-01-23,10:29:32,2024-01-23,10:29:32
+2,NEW REGISTRATION (NR),NR,1,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,0,0,0,2024-01-23,10:30:10,2024-01-23,10:34:26
+3,TRAINING (T),T,1,1,0,0,0,0,0,0,NULL,NULL,NULL,NULL,NULL,NULL,0,0,0,0,0,0,2024-01-23,10:31:10,2024-01-23,10:31:10
